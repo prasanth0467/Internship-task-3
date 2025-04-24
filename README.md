@@ -13,6 +13,8 @@ This project involves analyzing a sales database using SQL. It includes revenue 
 - Aggregate functions (sum, avg)
 - Indexes for optimization
 
+## Database used
+`db_dump.sql` from codebasics repo
 ## Screenshot Samples
 See `.png files` for query results.
 
